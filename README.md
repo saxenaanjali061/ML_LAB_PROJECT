@@ -23,8 +23,4 @@ To analyze the effect of different alloying elements (Carbon, Manganese, Chromiu
 - Logistic Regression and SVM results are reported as accuracy and classification performance.  
 - Visualization includes scatter plots and regression lines.  
 
- How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/ML_LAB_PROJECT.git
-   cd Prediction-of-Mechanical-properties-of-Steel
+

@@ -26,5 +26,5 @@ To analyze the effect of different alloying elements (Carbon, Manganese, Chromiu
  How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Prediction-of-Mechanical-properties-of-Steel.git
+   git clone https://github.com/YOUR_USERNAME/ML_LAB_PROJECT.git
    cd Prediction-of-Mechanical-properties-of-Steel
